@@ -1,5 +1,5 @@
 <!--
-**- 🔭 I’m currently working on ...
+**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -8,10 +8,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm Rajashree Rajagopal!
+# Hi there 👋, I'm Rajashree!
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in data science and machine learning. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm a data professional with a blend of technical and analytical skills focused on leveraging data and models to identify patterns, automate processes, and deliver impactful insights.
 
+- 🔭 I’m currently working on building my Data Analysis projects and portfolio
 ## 🧰 Tech ToolBox:
 
 - **Languages:** Python, JavaScript, Java, C++
