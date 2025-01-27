@@ -33,7 +33,8 @@ Here are a few projects I've worked on:
 -->
 # Hi there 👋, I'm Rajashree!
 
-Welcome to my GitHub profile! I'm a data professional with a blend of technical and analytical skills focused on leveraging data and models to identify patterns, automate processes, and deliver impactful insights.
+I'm a tech enthusiast with a strong passion for building impactful software and solving challenging problems. With a Bachelor's in Information Technology and professional experience as a Systems Engineer at Infosys, I've worked across a spectrum of technologies, from microservices to data analytics. I believe in the power of continuous learning and leveraging technology to make a difference. I aspire to leverage my skills to deliver impactful insights.
+
 🔭 I’m currently working on building my Data Analysis projects and portfolio
 
 ## 🧰 Tech ToolBox:
